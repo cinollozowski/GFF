@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="GFF2.0" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Grimdark.Future.Firefight.gstz" dataType="gamesystem" dataId="4503-fc13-8f5b-fe41" dataName="Grimdark Future: Firefight" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Prime.Brothers.catz" dataType="catalogue" dataId="b3c9-b70d-2956-5ecf" dataName="Prime Brothers" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Alien.Hives.catz" dataType="catalogue" dataId="1ac0-d2e9-d7e1-e93a" dataName="Alien Hives" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Wormhole.Daemons.catz" dataType="catalogue" dataId="0a5d-89a1-0fae-e753" dataName="Wormhole Daemons" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="TAO.Coalition.catz" dataType="catalogue" dataId="a54a-e688-aab8-ea63" dataName="TAO Coalition" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Battle.Sisters.catz" dataType="catalogue" dataId="1cdf-4a62-90c7-58e9" dataName="Battle Sisters" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Havoc.Brothers.catz" dataType="catalogue" dataId="3442-f45c-5470-b87c" dataName="Havoc Brothers" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Battle.Brothers.catz" dataType="catalogue" dataId="a9d4-2ee5-382d-407a" dataName="Battle Brothers" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Dark.Elf.Raiders.catz" dataType="catalogue" dataId="1fc8-11e9-c198-abe5" dataName="Dark Elf Raiders" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Human.Defense.Force.catz" dataType="catalogue" dataId="7da6-2cc0-3315-43e6" dataName="Human Defense Force" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Soul-Snatcher.Cults.catz" dataType="catalogue" dataId="9359-d8f9-5eea-c2a6" dataName="Soul-Snatcher Cults" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Lib.-.Brothers.Shared.catz" dataType="catalogue" dataId="9b48-2cc6-1781-79c8" dataName="Lib - Brothers Shared" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="High.Elf.Fleets.catz" dataType="catalogue" dataId="5cd3-ad3d-e4e0-ac82" dataName="High Elf Fleets" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Orc.Marauders.catz" dataType="catalogue" dataId="baae-eed1-8605-3a24" dataName="Orc Marauders" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Custodian.Brothers.catz" dataType="catalogue" dataId="91db-d66b-36b1-a686" dataName="Custodian Brothers" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Machine.Cult.catz" dataType="catalogue" dataId="fbe7-131a-a7dc-f472" dataName="Machine Cult" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
